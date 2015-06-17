@@ -1,0 +1,1291 @@
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.2.1	E-UTRAN FDD - FDD cell re-selection intra frequency case	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.2.3	E-UTRAN FDD - FDD cell re-selection inter frequency case	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.3.1.1	E-UTRA FDD - UTRAN FDD cell re-selection	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.3.1.2	E-UTRA FDD - UTRAN FDD cell re-selection: UTRA FDD is of lower priority	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.3.1.3	E-UTRAN FDD - UTRAN FDD cell re-selection in fading propagation conditions: UTRA FDD is of lower priority	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.4.1	E-UTRAN FDD - GSM cell re-selection	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	4.5.1.1	E-UTRAN FDD - HRPD Cell re-selection: HRPD is of lower priority	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	4.6.1.1	E-UTRAN FDD - cdma2000 1xRTT Cell re-selection: cdma2000 1x is of lower priority	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.1.1	E-UTRAN FDD - FDD Handover intra frequency case	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.1.3	E-UTRAN FDD - FDD Handover inter frequency case	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.1.5	E-UTRAN FDD - FDD inter frequency handover: unknown target cell	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.2.1	E-UTRAN FDD - UTRAN FDD handover	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.2.3	E-UTRAN FDD - GSM handover	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.2.7	E-UTRAN FDD - UTRAN FDD handover: unknown target cell	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	5.2.8	E-UTRAN FDD - GSM handover: unknown target cell	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.3.1	E-UTRAN FDD - HRPD Handover	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.3.2	E-UTRAN FDD - cdma2000 1xRTT handover	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.3.3	E-UTRAN FDD - HRPD handover: unknown target cell	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.3.4	E-UTRAN FDD - cdma2000 1xRTT handover: unknown target cell	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.1.1	E-UTRAN FDD Intra-frequency RRC Re-establishment	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.1.2	E-UTRAN FDD Inter-frequency RRC Re-establishment	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	E-UTRAN FDD - Contention Based Random Access Test	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	E-UTRAN FDD - Non-Contention Based Random Access Test	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.2.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.1.1	E-UTRAN FDD - UE Transmit Timing Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.2.1	E-UTRAN FDD - UE Timing Advance Adjustment Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.1	E-UTRAN FDD Radio Link Monitoring Test for Out-of-Sync	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.2	E-UTRAN FDD Radio Link Monitoring Test for In-Sync	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.5	E-UTRAN FDD Radio Link Monitoring Test for Out-of-sync in DRX	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.6	E-UTRAN FDD Radio Link Monitoring Test for In-sync in DRX	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.1	E-UTRAN FDD-FDD intra-frequency event triggered reporting under fading propagation conditions in asynchronous cells	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.2	E-UTRAN FDD-FDD intra-frequency event triggered reporting under fading propagation conditions in synchronous cells	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.3	E-UTRAN FDD-FDD intra-frequency event triggered reporting under fading propagation conditions in synchronous cells with DRX	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.5	E-UTRAN FDD - FDD Intra-frequency identification of a new CGI of E-UTRA cell using autonomous gaps	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.6	E-UTRAN FDD - FDD Intra-frequency identification of a new CGI of E-UTRA cell using autonomous gaps with DRX	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.1	E-UTRAN FDD-FDD inter-frequency event triggered reporting under fading propagation conditions in asynchronous cells	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.2	E-UTRAN FDD-FDD inter-frequency event triggered reporting when DRX is used under fading propagation conditions in asynchronous cells	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.3	E-UTRAN FDD-FDD inter frequency event triggered reporting under AWGN propagation conditions in asynchronous cells with DRX when L3 filtering is used	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.4	E-UTRAN FDD - FDD Inter-frequency identification of a new CGI of E-UTRA cell using autonomous gaps	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.5	E-UTRAN FDD - FDD Inter-frequency identification of a new CGI of E-UTRA cell using autonomous gaps with DRX	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.5.1	E-UTRAN FDD-UTRAN FDD event triggered reporting under fading propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.5.2	E-UTRAN FDD-UTRAN FDD SON ANR cell search reporting under AWGN propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.5.3	E-UTRAN FDD - UTRAN FDD event triggered reporting when DRX is used under fading propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.8.1	E-UTRAN FDD-GSM event triggered reporting in AWGN	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.8.2	E-UTRAN FDD - GSM event triggered reporting when DRX is used in AWGN	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.11.1	Multiple E-UTRAN FDD-FDD Inter-frequency event triggered reporting under fading propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.11.3	E-UTRAN FDD-FDD Inter-frequency and UTRAN FDD event triggered reporting under fading propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.11.5	Combined E-UTRAN FDD - E-UTRA FDD and GSM cell search; E-UTRA cells in fading; GSM cell in static propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	E-UTRAN FDD - UTRA FDD CPICH RSCP absolute accuracy	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	E-UTRAN FDD - UTRA FDD CPICH Ec/No absolute accuracy	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	Normal Temperature / Normal Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	High Temperature / High Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	High Temperature / Low Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	Low Temperature / High Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.4.1	Low Temperature / Low Voltage	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.1	PLMN selection of RPLMN, HPLMN/EHPLMN, UPLMN and OPLMN / Automatic mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.2	PLMN selection of "Other PLMN/access technology combinations" / Automatic mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.3	Cell reselection of ePLMN in manual mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.4	PLMN selection in shared network environment / Automatic mode	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.6	PLMN selection of RPLMN, HPLMN/EHPLMN, UPLMN and OPLMN / Automatic mode / User reselection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.2	Cell selection / Qrxlevmin	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.3	Cell selection / Intra E-UTRAN / Serving cell becomes non-suitable	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.4	Cell reselection	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.5	Cell reselection for inter-band operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.6	Cell reselection using Qhyst, Qoffset and Treselection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.7	Cell reselection / Equivalent PLMN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.8	Cell reselection using cell status and cell reservations / Access control class 0 to 9	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.9	Cell reselection using cell status and cell reservations / Access control class 11 to15	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.10	Cell reselection in shared network environment	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.11	Inter-frequency cell reselection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.12	Cell reselection / Cell-specific reselection parameters provided by the network in a neighbouring cell list	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.13	Cell re-selection, Sintrasearch, Snonintrasearch	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.14	Speed-dependent cell reselection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.15	Inter-frequency cell reselection according to cell reselection priority provided by SIBs	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.1.1	Inter-RAT PLMN Selection / Selection of correct RAT for OPLMN / Automatic mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.1.2	Inter-RAT PLMN Selection / Selection of correct RAT for UPLMN / Automatic mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.1.3	Inter-RAT PLMN Selection / Selection of correct PLMN and RAT in shared network environment / Automatic mode	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.1.4	Inter-RAT PLMN Selection/ Selection of correct RAT from the OPLMN list/ Manual mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.1.6	Inter-RAT Background HPLMN Search / Search for correct RAT for HPLMN / Automatic Mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.1	Inter-RAT cell selection / From E-UTRA RRC_IDLE to UTRA_Idle / Serving cell becomes non-suitable	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.2	Inter-RAT cell selection / From E-UTRA RRC_IDLE to GSM_Idle/GPRS Packet_idle / Serving cell becomes non-suitable	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.3	Inter-RAT cell selection / From E-UTRA RRC_IDLE to HRPD Idle / Serving cell becomes non-suitable	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.4	Inter-RAT cell selection / From E-UTRA RRC_IDLE to 1xRTT idle / Serving cell becomes non-suitable	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.5	Cell selection / No USIM	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.6	Inter-RAT Cell selection / From GSM_Idle/GPRS Packet_idle to E-UTRA_RRC_IDLE / Serving cell becomes non-suitable	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.7	Inter-RAT Cell selection / From GSM_Idle/GPRS Packet_idle to E-UTRA_RRC_IDLE ,when the serving cell is barred	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.2.8	Inter-RAT cell selection / From UTRA_Idle to E-UTRA RRC_IDLE / Serving cell becomes non-suitable	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.1	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to GSM_Idle/GPRS Packet_Idle	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.3	Inter-RAT cell reselection / From UTRA_Idle to E-UTRA RRC_IDLE	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.4	Inter-RAT Cell Reselection / From UTRA CELL_PCH state to E-UTRA RRC_IDLE	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.5	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to UTRA_Idle	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.6	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to UTRA_Idle according to RAT priority provided by dedicated signalling	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.7	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to HRPD Idle / HRPD cell is higher reselection priority than E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.8	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to HRPD Idle / HRPD cell is lower reselection priority than E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.9	Inter-RAT Cell Reselection: from E-UTRA RRC_IDLE to CDMA2000 1xRTT Dormant¡V When CDMA2000 1xRTT cell is higher reselection priority than E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.10	Inter-RAT Cell Reselection: from E-UTRA RRC_IDLE to CDMA2000 1xRTT Idle ¡V When CDMA2000 1xRTT is lower reselection priority than E-UTRA	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.13	Inter-RAT cell reselection / From UTRA_Idle to E-UTRA RRC_IDLE according to RAT priority provided by dedicated signalling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.14	Inter-RAT Cell Reselection / from GSM_Idle/GPRS Packet_Idle to E-UTRA (priority of  E-UTRA cells are higher than the serving cell)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.15	Inter-RAT Cell Reselection / from GSM_Idle/GPRS Packet_Idle to E-UTRA (priority of  E-UTRA cells are lower than the serving cell)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.16	Inter-RAT Cell Reselection / from GSM_Idle to E-UTRAN /based on H_PRIO criteria	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.17	Inter-RAT Cell Reselection / from GSM_Idle/GPRS Packet_Idle to E-UTRA (priority E-UTRA cells)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.18	Inter-RAT Cell Reselection / from GSM_Idle/GPRS Packet_Idle to E-UTRA (blacklisted E-UTRA cells)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.19	Redirection to E-UTRA upon the release of the CS connection	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.20	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.21	Inter-RAT autonomous cell reselection GPRS Packet_transfer NC0 mode to E-UTRA	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.22	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.23	Inter-RAT Cell Reselection from GPRS Packet transfer to E-UTRA in CCN mode (PACKET CELL CHANGE CONTINUE)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.24	Inter-RAT Cell Reselection from GPRS Packet transfer to E-UTRA in CCN mode (PACKET CELL CHANGE ORDER)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.26	Inter-RAT Autonomous Cell Reselection GPRS Packet_transfer to E-UTRA (NC1 mode)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.27	Inter-RAT Cell Selection from GPRS Packet_transfer to E-UTRA  Cell (NC2 mode)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.28	Inter-RAT Cell Reselection from GPRS Packet_transfer to E-UTRA (Network Assisted Cell Change)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.29	Inter-RAT cell Reselection from GPRS packet_transfer to E-UTRA in CCN mode (PACKET MEASUREMENT ORDER)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.30	Inter-RAT Cell Reselection failure from GPRS Packet transfer to E-UTRA (Network Assisted Cell Change)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.31	Inter-RAT cell reselection / From UTRA_Idle (low priority) to E-UTRA RRC_IDLE (high priority) according to RAT priority provided by dedicated signalling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.32	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to UTRA_Idle, Snonintrasearch	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.6	Ignoring CSG cells in cell selection/reselection when allowed CSG list is empty or not supported	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.9	Manual CSG ID selection across PLMNs	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.1	Manual CSG ID selection / Hybrid cell whose CSG ID is not in the Allowed CSG list nor Operator¡¦s list	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.2	Inter-frequency cell reselection / From E-UTRA RRC_IDLE non-CSG cell to E-UTRA RRC_IDLE member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.3	Inter-RAT cell reselection / From E-UTRA RRC_IDLE non-CSG cell to UTRA_Idle member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.4	Inter-RAT cell reselection / From E-UTRA RRC_IDLE non-member hybrid cell to UTRA_Idle member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.5	Inter-RAT cell reselection / From UTRA_Idle to E-UTRA RRC_IDLE member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.6	Inter-RAT cell reselection / From UTRA CELL_PCH to E-UTRA RRC_IDLE member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.4.7	Inter-RAT cell reselection / From GERAN to E-UTRA RRC_IDLE member hybrid cell	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.1.1	CCCH mapped to UL SCH/DL-SCH / Reserved logical channel ID	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.1.2	DTCH or DCCH mapped to UL SCH/DL-SCH / Reserved logical channel ID	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.1	Correct selection of RACH parameters / Random access preamble and PRACH resource explicitly signalled to the UE by RRC / Non-contention based random access procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.2	Correct selection of RACH parameters / Random access preamble and PRACH resource explicitly signalled to the UE in PDCCH Order / Non-contention based random access procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.3	Correct selection of RACH parameters / Preamble selected by MAC itself / Contention based random access procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.4	Random access procedure / Successful	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.5	Random access procedure / MAC PDU containing multiple RARs	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.6	Maintenance of uplink time alignment	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.7	MAC contention resolution / Temporary C-RNTI	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.8	MAC contention resolution / C-RNTI	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.2.9	MAC backoff indicator	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.1	Correct handling of DL assignment / Dynamic case	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.3	MAC PDU header handling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.4	Correct HARQ process handling / DCCH and DTCH	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.5	Correct HARQ process handling / CCCH	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.6	Correct HARQ process handling / BCCH	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.7	MAC padding	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.9	MAC reset DL	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.1	Correct handling of UL assignment / Dynamic case	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.3	Logical channel prioritization handling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.4	Correct handling of MAC control information / Scheduling requests and PUCCH	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.5	Correct handling of MAC control information / Scheduling requests / Random access procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.6	Correct handling of MAC control information / Buffer status / UL data arrive in the UE Tx buffer / Regular BSR	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.7	Correct handling of MAC control information / Buffer status / UL resources are allocated / Padding BSR	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.7a	Correct handling of MAC control information / Buffer status / UL resources are allocated / Cancellation of Padding BSR	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.8	Correct handling of MAC control information / Buffer status / Periodic BSR timer expires	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.10	MAC padding	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.11	Correct HARQ process handling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.12	MAC reset UL	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.13	MAC PDU header handling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.15	UE power headroom reporting / Periodic reporting	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.16	UE power headroom Reporting / DL pathloss change reporting	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.5.1	Inter-TTI PUSCH hopping by uplink grant	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.5.2	Predefined intra-TTI PUSCH hopping (N_sb=1)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.5.3	Predefined intra-TTI PUSCH hopping (N_sb=2/3/4)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.5.4	Predefined inter-TTI PUSCH hopping (N_sb=1)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.5.5	Predefined inter-TTI PUSCH hopping (N_sb=2/3/4)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.6.1	DRX operation / Short cycle not configured / Parameters configured by RRC	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.6.2	DRX operation / Short cycle not configured / DRX command MAC control element reception	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.1	DL-SCH transport block size selection / DCI format 1 / RA type 0	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.2	DL-SCH transport block size selection / DCI format 1 / RA type 1	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.3	DL-SCH transport block size selection / DCI format 1A / RA type 2 / Localised VRB	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.4	DL-SCH transport block size selection / DCI format 1A / RA type 2 / Distributed VRB	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.5	DL-SCH transport block size selection / DCI format 2A / RA type 0 / Two transport blocks enabled / Transport block to codeword swap flag value set to 0	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.1.6	DL-SCH transport block size selection / DCI format 2A / RA type 1 / Two transport blocks enabled / Transport block to codeword swap flag value set to 1	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.7.2.1	UL-SCH transport block size selection / DCI format 0	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.8.1	Periodic RI reporting using PUCCH / Category 1 UE / Transmission mode 3/4	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.1	UM RLC / Segmentation and reassembly / 5-bit SN / Framing Info Field	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.2	UM RLC / Segmentation and reassembly / 10-bit SN / Framing Info Field	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.3	UM RLC / Reassembly / 5-bit SN / LI value > PDU size	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.4	UM RLC / Reassembly / 10-bit SN / LI value > PDU size	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.5.1	UM RLC / 5-bit SN / Correct use of sequence numbering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.5.2	UM RLC / 10-bit SN / Correct use of sequence numbering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.6	UM RLC / Concatenation, segmentation and reassembly	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.7	UM RLC / In sequence delivery of upper layer PDUs without residual loss of RLC PDUs / Maximum re-ordering delay below t-Reordering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.8	UM RLC / In sequence delivery of upper layer PDUs without residual loss of RLC PDUs / Maximum re-ordering delay exceeds t-Reordering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.9	UM RLC / In sequence delivery of upper layer PDUs with residual loss of RLC PDUs / Maximum re-ordering delay exceeds t-Reordering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.10	UM RLC / Duplicate detection of RLC PDUs	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.2.11	UM RLC / RLC re-establishment procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.1	AM RLC / Concatenation and reassembly	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.2	AM RLC / Segmentation and reassembly / No PDU segmentation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.3	AM RLC / Segmentation and reassembly / Framing Info Field	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.4	AM RLC / Segmentation and reassembly / Different numbers of length indicators	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.5	AM RLC / Reassembly / LI value > PDU size	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.6	AM RLC / Correct use of sequence numbering	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.7	AM RLC / Control of transmit window	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.8	AM RLC / Control of receive window	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.9	AM RLC / Polling for status	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.10	AM RLC / Receiver status triggers	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.12	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.13	AM RLC / Reconfiguration of RLC parameters by upper layers	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.14	AM RLC / In sequence delivery of upper layers PDUs	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.15	AM RLC / Re-ordering of RLC PDU segments	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.16	AM RLC / Re-transmission of RLC PDU without re-segmentation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.17	AM RLC / Re-segmentation RLC PDU / SO, FI, LSF	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.18	AM RLC / Reassembly / AMD PDU reassembly from AMD PDU segments / SO and LSF	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.19	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.20	AM RLC / Duplicate detection of RLC PDUs	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.2.3.21	AM RLC / RLC re-establishment at RRC connection reconfiguration including mobilityControlInfo IE	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.1.1	Maintenance of PDCP sequence numbers / User plane / RLC AM	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.1.2	Maintenance of PDCP sequence numbers / User plane / RLC UM / Short PDCP SN (7 bits)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.1.3	Maintenance of PDCP sequence numbers / User plane / RLC UM / Long PDCP SN (12 bits)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.1	Ciphering and deciphering / Correct functionality of EPS AS encryption algorithms / SNOW3G	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.2	Ciphering and deciphering / Correct functionality of EPS UP encryption algorithms / SNOW3G	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.3	Ciphering and deciphering / Correct functionality of EPS AS encryption algorithms / AES	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.4	Ciphering and deciphering / Correct functionality of EPS UP encryption algorithms / AES	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.4.1	Integrity protection / Correct functionality of EPS AS integrity algorithms / SNOW3G	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.4.2	Integrity protection / Correct functionality of EPS AS integrity algorithms / AES	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.5.1	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.5.2	PDCP handover / Lossless handover / PDCP sequence number maintenance	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.5.3	PDCP handover / Non-lossless handover / PDCP sequence number maintenance	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.5.4	PDCP handover / Lossless handover / PDCP status report to convey the information on missing or acknowledged PDCP SDUs at handover	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.5.5	PDCP handover / In-order delivery and duplicate elimination in the downlink	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.6.1	PDCP discard	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.1.1	RRC / Paging for connection in idle mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.1.2	RRC / Paging for notification of BCCH modification in idle mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.1.3	RRC / Paging for connection in idle mode / Multiple paging records	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.1.4	RRC / Paging for connection in idle mode / Shared network environment	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.1.6	RRC / BCCH modification in connected mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.1	RRC connection establishment / Ks=1.25 / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.2	RRC connection establishment / Reject with wait time	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.3	RRC connection establishment / Return to idle state after T300 timeout	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.5	RRC connection establishment / 0% access probability for MO calls, no restriction for MO signalling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.6	RRC connection establishment / Non-zero percent access probability for MO calls, no restriction for MO signalling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.7	RRC connection establishment / 0% access probability for AC 0 to 9, AC 10 is barred, AC 11 to 15 are not barred, access for UE with access class in the range 11 to 15 is allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.8	RRC connection establishment / Range of access baring time	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.9	RRC Connection Establishment / 0% access probability for MO calls, non-zero percent access probability for MO signalling	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.10	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.11	RRC connection establishment of emergency call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.12	RRC connection establishment of emergency call / Limited service	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.13	RRC connection establishment / 0% access probability for MO calls, 0% access probability for MO signalling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.1	RRC connection release / Success	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.3	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.4	RRC connection release / Redirection to another E-UTRAN frequency	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.5	RRC connection release / Success / With priority information	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.6	RRC connection release / Redirection from E-UTRAN to UTRAN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.7	RRC connection release / Redirection from UTRAN to E-UTRAN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.8	RRC connection release / Redirection from E-UTRAN to GERAN	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.9	RRC connection release / Redirection from E-UTRAN to HRPD	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.10	RRC connection release / Redirection from E-UTRAN to 1xRTT	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.1	RRC connection reconfiguration / Radio bearer establishment for transition from RRC_IDLE to RRC_CONNECTED / Success / Default bearer / Early bearer establishment	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.3	RRC connection reconfiguration / Radio bearer establishment / Success / Dedicated bearer	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.5	RRC connection reconfiguration / Radio bearer establishment for transition from RRC_IDLE to RRC CONNECTED / Success / Latency check	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.6	RRC connection reconfiguration / Radio bearer establishment for transition from RRC_IDLE to RRC CONNECTED / Success / Latency check / SecurityModeCommand and RRCConnectionReconfiguration transmitted in the same TTI	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.7	RRC connection reconfiguration / Radio bearer establishment / Success / SRB2	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.1.8	RRC connection reconfiguration / Radio bearer establishment / Success / Dedicated bearer / ROHC configured	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.1	RRC connection reconfiguration / Radio resource reconfiguration / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.2	RRC connection reconfiguration / SRB/DRB reconfiguration / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.3.1	RRC connection reconfiguration / Radio bearer release / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.1	RRC connection reconfiguration / Handover / Success / Dedicated preamble	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.2	RRC connection reconfiguration / Handover / Success / Common preamble	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.3	RRC connection reconfiguration / Handover / Success / Intra-cell / Security reconfiguration	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.4	RRC connection reconfiguration / Handover / Failure / Intra-cell / Security reconfiguration	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.5	RRC connection reconfiguration / Handover / All parameters included	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.6	RRC connection reconfiguration / Handover / Success / Inter-frequency	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.7	RRC connection reconfiguration / Handover / Failure / Re-establishment successful	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.8	RRC connection reconfiguration / Handover / Failure / Re-establishment failure	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.9	RRC connection reconfiguration / Handover / Inter-band blind handover / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.12	RRC connection reconfiguration / Handover / Setup and release of MIMO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.1	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A1	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.2	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A2	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.3	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A3 (intra and inter-frequency measurements)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.4	Measurement configuration control and reporting / Intra E-UTRAN measurements / Periodic reporting (intra and inter-frequency measurements)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.5	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous event A3 (intra-frequency measurements)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.6	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A2 and A3 (inter-frequency measurements)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.7	Measurement configuration control and reporting / Intra E-UTRAN measurements / Blacklisting	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.8	Measurement configuration control and reporting / Intra E-UTRAN measurements / Handover / IE measurement configuration present	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.9	Measurement configuration control and reporting / Intra E-UTRAN measurements / Intra-frequency handover / IE measurement configuration not present	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.10	Measurement configuration control and reporting / Intra E-UTRAN measurements / Inter-frequency handover / IE measurement configuration not present	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.11	Measurement configuration control and reporting / Intra E-UTRAN measurements / Continuation of the measurements after RRC connection re-establishment	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.1	Measurement configuration control and reporting / Inter-RAT measurements / Event B2 / Measurement of GERAN cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.2	Measurement configuration control and reporting / Inter-RAT measurements / Periodic reporting / Measurement of GERAN cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.3	Measurement configuration control and reporting / Inter-RAT measurements / Event B2 / Measurement of UTRAN cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.4	Measurement configuration control and reporting / Inter-RAT measurements / Periodic reporting / Measurement of UTRAN cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.5	Measurement configuration control and reporting / Inter-RAT measurements / Periodic reporting / Measurements of E-UTRAN, UTRAN and GERAN cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.6	Measurement configuration control and reporting / Inter-RAT measurements / Simultaneous A2 and two B2 / Measurements of E-UTRAN, UTRAN and GERAN cells	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.3A.1	Transmit OFF Power for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4A.1.1	General ON/OFF time mask for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	Power Control Absolute Power Tolerance for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.1.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	Power Control Relative Power Tolerance for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.2.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	Aggregate Power Control Tolerance for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5A.3.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	Power Control  Relative power tolerance for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.2	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	Aggregate power control tolerance for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.3	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	Frequency Error for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1A.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2A.1.1	Error Vector Magnitude (EVM) for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2A.2.1	Carrier leakage for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2A.3.1	In-band emissions for non allocated RB for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.1A.1	Occupied bandwidth for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	Spectrum Emission Mask for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1A.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1B	Spectrum Emission Mask for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.2B	Additional Spectrum Emission Mask for UL-MIMO	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	Adjacent Channel Leakage power Ratio for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3A.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	Adjacent Channel Leakage power Ratio for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3B	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.1A.1	Transmitter Spurious emissions for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.2A.1	Spurious emission band UE co-existence for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.3A.1	Additional spurious emissions for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.7A	Transmit intermodulation for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.8B	Time alignment between transmitter branches for UL-MIMO	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	Reference sensitivity level for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	Reference sensitivity level for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.2	Low Temperature / Low Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	Reference sensitivity level for CA (inter-band DL CA without UL CA)	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	Normal Temperature / Normal Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	High Temperature / High Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	High Temperature / Low Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	Low Temperature / High Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.3A.3	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.4A.1	Maximum input level for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.4A.2	Maximum input level for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.5A.1	Adjacent Channel Selectivity (ACS) for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+FFS    	TS 36.521-1	V.11.2.0 (2013-09)	7.5A.2	Adjacent Channel Selectivity (ACS) for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+FFS    	TS 36.521-1	V.11.2.0 (2013-09)	7.5A.3	Adjacent Channel Selectivity (ACS) for CA (inter-band DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.1A.1	In-band blocking for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.1A.2	In-band blocking for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.1A.3	In-band blocking for CA (inter-band DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.2A.1	Out of-band blocking for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.2A.2	Out of-band blocking for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+FFS    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.2A.3	Out of-band blocking for CA (inter-band DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.3A.1	Narrow band blocking for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.3A.2	Narrow band blocking for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.3A.3	Narrow band blocking for CA (inter-band DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.7A.1	Spurious response for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.7A.2	Spurious response for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+FFS    	TS 36.521-1	V.11.2.0 (2013-09)	7.7A.3	Spurious response for CA (inter-band DL CA without UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.8.1A.1	Wide band Intermodulation for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.8.1A.2	Wide band Intermodulation for CA (intra-band contiguous DL CA without UL CA)	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.8.1A.3	Wide band Intermodulation for CA (inter-band DL CA without UL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.1.1_A.1	FDD PDSCH Single Antenna Port Performance for CA (intra-band contiguous DL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.1.1_A.2	FDD PDSCH Single Antenna Port Performance for CA (inter-band DL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.1_A.1	FDD PDSCH Open Loop Spatial Multiplexing 2x2 for CA (intra-band contiguous DL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.1_A.2	FDD PDSCH Open Loop Spatial Multiplexing 2x2 for CA (inter-band DL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.2.1.1_1	FDD CQI Reporting under fading conditions - PUCCH 1-0 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.3.9	Redirection from E-UTRAN FDD to UTRAN FDD without System Information	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.3.10	Redirection from E-UTRAN FDD to GERAN when System Information is not provided	Rel-9	
+null    	TS 36.521-3	V.11.2.0 (2013-09)	8.12.1	Void	null	
+null    	TS 36.521-3	V.11.2.0 (2013-09)	8.13.1	Void	null	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.16.1	E-UTRAN FDD event triggered reporting under deactivated SCell in non-DRX	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.16.3	E-UTRAN FDD-FDD Event triggered reporting on deactivated SCell with PCell interruption in non-DRX	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.20.1	E-UTRAN FDD-FDD Inter-frequency event triggered reporting under fading propagation conditions in asynchronous cells	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.20.3	E-UTRAN FDD - UTRAN FDD event triggered reporting under fading propagation conditions	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.6.1	FDD Absolute RSRP Accuracy E-UTRA for Carrier Aggregation	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.6.2	FDD Relative RSRP Accuracy E-UTRA for Carrier Aggregation	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.15b	Inter-band cell reselection according to cell reselection priority provided by SIBs	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.4a	Inter-RAT Cell Reselection / From UTRA CELL_PCH state to E-UTRA RRC_IDLE  based on RSRQ+RSRP evaluation	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.10	Intra-frequency cell selection / From E-UTRA RRC_IDLE non-CSG cell to E-UTRA RRC_IDLE CSG cell / CSG cell on same PLMN as previously visited CSG cell	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.11	Inter-RAT cell selection / From UTRA_Idle to E-UTRA RRC_IDLE CSG cell / CSG cell on same PLMN as previously visited CSG cell	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.12	Inter-RAT cell selection / From E-UTRA RRC_IDLE to UTRA_Idle / CSG cell on same PLMN as previously visited CSG cell	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.11.1	CA / Correct HARQ process handling / DCCH and DTCH / Pcell and Scell / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.11.2	CA / Correct HARQ process handling / DCCH and DTCH / Pcell and Scell / Inter-band CA	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.18	CA / Correct handling of MAC control information / Buffer Status / UL data arrive in the UE Tx buffer / Extended buffer size	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.19.1	CA / UE power headroom reporting / SCell activation and DL pathloss change reporting / Extended PHR / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.19.2	CA / UE power headroom reporting / SCell activation and DL pathloss change reporting / Extended PHR / Inter-band CA	FFS	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.20.1	CA / Correct handling of MAC control information / Buffer status / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.20.2	CA / Correct handling of MAC control information / Buffer status / Inter-band CA	FFS	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.22	Correct HARQ process handling / UL MIMO	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.9.1.1	CA / Activation/Deactivation of SCells / Activation/Deactivation MAC control element reception / sCellDeactivationTimer/ Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.9.1.2	CA / Activation/Deactivation of SCells / Activation/Deactivation MAC control element reception / sCellDeactivationTimer/ Inter-band  CA	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.5	Ciphering and deciphering / Correct functionality of EPS AS encryption algorithms / ZUC	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.3.6	Ciphering and deciphering / Correct functionality of EPS UP encryption algorithms / ZUC	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.3.4.3	Integrity protection / Correct functionality of EPS AS integrity algorithms / ZUC	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.3.1	CA / RRC connection reconfiguration / SCell addition/modification/release / Success / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.3.2	CA / RRC connection reconfiguration / SCell addition/modification/release / Success / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.4.1	CA / RRC connection reconfiguration / SCell SI change / Success / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.4.2	CA / RRC connection reconfiguration / SCell SI change / Success / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.5.1	CA / RRC connection reconfiguration / SCell Addition without UL / Success / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.5.2	CA / RRC connection reconfiguration / SCell Addition without UL / Success / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.17.1	CA / RRC connection reconfiguration / Handover / Success / PCell Change and SCell addition / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.17.2	CA / RRC connection reconfiguration / Handover / Success / PCell Change and SCell addition / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.18.1	CA / RRC connection reconfiguration / Handover / Success / SCell release / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.18.2	CA / RRC connection reconfiguration / Handover / Success / SCell release / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.19.1	CA / RRC connection reconfiguration / Handover / Success / PCell Change / SCell no Change / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.19.2	CA / RRC connection reconfiguration / Handover / Success / PCell Change / SCell no Change / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.20.1	CA / RRC connection reconfiguration / Handover / Scell Change / Success / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.20.2	CA / RRC connection reconfiguration / Handover / Scell Change / Success / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.21.1	CA / RRC connection reconfiguration / Handover / Success / SCell release / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.21.2	CA / RRC connection reconfiguration / Handover / Success / SCell release / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.17.1	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A6 / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.17.2	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A6 / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.18.1	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Additional measurement reporting / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.18.2	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Additional measurement reporting / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.19	eICIC / Measurement configuration control and reporting / CSI change	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.20	eICIC / Measurement configuration control and reporting / Event A3 / RSRP and RSRQ measurement / Neighbour ABS	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.22.1	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A1 / Event A2 / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.22.2	CA / Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A1 / Event A2 / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.2.7	CA / RRC connection reconfiguration / Handover UTRAN to E-UTRAN/ Success / SCell addition	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.10	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA call failure ¡V GCSNA with Release Order.	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.7.1	CA / No Radio Link Failure on SCell / RRC Connection Continues on PCell / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.7.2	CA / No Radio Link Failure on SCell / RRC Connection Continues on PCell / Inter-band CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.9	Logged MDT / Location information	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.7	Radio Link Failure logging / Location information	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.4	Handover Failure logging / Location information	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.7.2	Handover Failure logging / Reporting of GERAN Inter-RAT measurements	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.7.3	Handover Failure logging / Reporting of CDMA2000 Inter-RAT measurements	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.7a	Attach / Success / List of equivalent PLMNs in the ATTACH ACCEPT message / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.5	Integrity protection / Correct functionality of EPS NAS integrity algorithm / ZUC	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.6	Ciphering and deciphering / Correct functionality of EPS NAS encryption algorithm / ZUC	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.1.5	RRC connection reconfiguration / Handover/ Full configuration / DRB establishment	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.6	Inter-system mobility / E-UTRA PS voice + PS Data / HO cancelled  / Notification procedure/ SRVCC	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.7	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MO call	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.8	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MO call / Forked responses	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.9	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MO call / SRVCC HO failure	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.10	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MT call	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.11	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MT call / SRVCC HO failure	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.12	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MT call / User answers in PS domain	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.13	Inter-system mobility / E-UTRA voice to UTRA CS voice / aSRVCC / MT call / User answers in PS domain / SRVCC HO cancelled	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.14	Inter-system mobility / E-UTRA PS voice + PS data to UTRA CS voice + PS data / aSRVCC / MO call	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.16	Inter-system mobility / E-UTRA PS voice + PS data to UTRA CS voice + PS data / aSRVCC / MT call	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	18.1.2	PWS reception in RRC_CONNECTED state / Duplicate detection	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	18.1.3	PWS reception in RRC_CONNECTED State/Power On	Rel-9	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.3_C.1	FDD PDSCH Open Loop Spatial Multiplexing 2x2 for eICIC (non-MBSFN ABS)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.3_C.2	FDD PDSCH Open Loop Spatial Multiplexing 2x2 for eICIC (MBSFN ABS)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.3.1.1.1_D	FDD PDSCH Single-layer Spatial Multiplexing on antenna ports 7 or 8 without a simultaneous transmission for eDL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.3.1.1.2_D	FDD PDSCH Single-layer Spatial Multiplexing on antenna ports 7 or 8 with a simultaneous transmission for eDL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.3.1.2.1_D	FDD PDSCH Dual-layer Spatial Multiplexing for eDL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.1.2.1_D	FDD CQI Reporting under fading conditions - PUSCH 3-1 for eDL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.2.2.1_D	FDD CQI Reporting under fading conditions - PUCCH 1-1 for eDL-MIMO	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.5.1.1_1	FDD RI Reporting - PUCCH 1-1 (Release 10)	Rel-10 only	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.10.1	FDD Absolute RSRP under Time-Domain Measurement Resource Restriction with MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.10.2	FDD Relative RSRP under Time-Domain Measurement Resource Restriction with MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.7	PLMN selection / Periodic reselection /  ExtendedWaitTimer	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.24	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A5	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.25	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A5 / RSRQ based measurements	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.26	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A5 (Inter-frequency measurements)	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.11	Measurement configuration control and reporting / Inter-RAT measurements / Event B1 / Measurement of UTRAN cells	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.3.2	Logged MDT / GERAN Inter-RAT measurement, logging and reporting	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.3.3	Logged MDT / CDMA2000 Inter-RAT measurement, logging and reporting	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.3.3	No emergency bearer service / NAS security mode command with EIA0 not accepted by the UE	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.27	Attach / Abnormal case /  Network reject with Extended Wait Timer	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.5.4	UE requested PDN connectivity not accepted / Network reject with Extended Wait Timer	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.5	Multiple MO-SMS over SGs / Idle mode	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.6	Multiple MO-SMS over SGs / Active mode	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.15	Inter-system mobility / E-UTRA PS voice + PS data to UTRA CS voice + PS data / aSRVCC / MO call / SRVCC HO cancelled	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.17	Inter-system mobility / E-UTRA PS voice + PS data to UTRA CS voice + PS data / aSRVCC / MT call / SRVCC HO cancelled	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	Normal Temperature / Normal Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	High Temperature / High Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	High Temperature / Low Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	Low Temperature / High Voltage	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.3.1	Low Temperature / Low Voltage	Rel-9	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2_1	UE Maximum Output Power for HPUE	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	Maximum Power Reduction (MPR) for HPUE	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	Normal Temperature / Normal Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	High Temperature / High Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	High Temperature / Low Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	Low Temperature / High Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3_1	Low Temperature / Low Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.4_1	Additional Maximum Power Reduction (A-MPR) for HPUE	Rel-11	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.3	Aggregate Power Control Tolerance	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	Frequency Error	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.1	Error Vector Magnitude (EVM)	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.1A	PUSCH-EVM with exclusion period	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	Carrier leakage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	In-band emissions for non allocated RB	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.3	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	EVM equalizer spectrum flatness	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2.4	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.1	Occupied bandwidth	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.1	Spectrum Emission Mask	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.2	Additional Spectrum Emission Mask	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	Adjacent Channel Leakage power Ratio	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3	Low Temperature / Low Voltage	Rel-8	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.4	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.1	Transmitter Spurious emissions	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.2	Spurious emission band UE co-existence	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.3.3	Additional spurious emissions	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.7	Transmit intermodulation	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	Reference sensitivity level	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.3	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.4	Maximum input level	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.5	Adjacent Channel Selectivity (ACS)	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.1	In-band blocking	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.2	Out of-band blocking	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.3	Narrow band blocking	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.7	Spurious response	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.8.1	Wide band Intermodulation	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	7.9	Spurious emissions	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.1.1	FDD PDSCH Single Antenna Port Performance	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.1.1_1	FDD PDSCH Single Antenna Port Performance (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.1.2	FDD PDSCH Single Antenna Port Performance with 1 PRB in presence of MBSFN	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.2.1	FDD PDSCH Transmit Diversity 2x2	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.2.1_1	FDD PDSCH Transmit Diversity 2x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.2.2	FDD PDSCH Transmit Diversity 4x2	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.2.2_1	FDD PDSCH Transmit Diversity 4x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.1	FDD PDSCH Open Loop Spatial Multiplexing 2x2	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.3.2	FDD PDSCH Open Loop Spatial Multiplexing 4x2	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.1	FDD PDSCH Closed Loop Single/Multi Layer Spatial Multiplexing 2x2	Rel-8 only	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.1_1	FDD PDSCH Closed Loop Single/Multi Layer Spatial Multiplexing 2x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.2	FDD PDSCH Closed Loop Single/Multi Layer Spatial Multiplexing 4x2	Rel-8 only	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.2_1	FDD PDSCH Closed Loop Single/Multi Layer Spatial Multiplexing 4x2 (Release 9 and forward)	Rel-9	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.2.1	Void	null	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.2.2	Void	null	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.2.3	Void	null	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.2.4	Void	null	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.3.1	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.1	FDD PCFICH/PDCCH Single-antenna Port Performance	Rel-8	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.2	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.2.1	FDD PCFICH/PDCCH Transmit Diversity 2x2	Rel-8 only	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.2.2	FDD PCFICH/PDCCH Transmit Diversity 4x2	Rel-8 only	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.2.2	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.1	FDD PHICH Single-antenna Port Performance	Rel-8	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.2	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.2.1	FDD PHICH Transmit Diversity 2x2	Rel-8 only	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.2.2	FDD PHICH Transmit Diversity 4x2	Rel-8 only	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.2.2	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.7.1.1	FDD sustained data rate performance	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.2.1.1	FDD CQI Reporting under AWGN conditions - PUCCH 1-0	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.2.2.1	FDD CQI Reporting under AWGN conditions - PUCCH 1-1	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.1.1.1	FDD CQI Reporting under fading conditions - PUSCH 3-0	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.2.1.1	FDD CQI Reporting under fading conditions - PUCCH 1-0	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.3.1.1	FDD CQI Reporting under fading conditions and frequency-selective interference - PUSCH 3-0	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.1.1.1	FDD PMI Reporting - PUSCH 3-1 (Single PMI)	Rel-8	
+C11 OR C17    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.2.1.1	FDD PMI Reporting - PUSCH 1-2 (Multiple PMI)	Rel-8 only	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.5.1.1	FDD RI Reporting - PUCCH 1-1	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	10.1	FDD MBMS performance (Fixed Reference Channel)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.2.1_1	FDD PCFICH/PDCCH Transmit Diversity 2x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.4.1.2.2_1	FDD PCFICH/PDCCH Transmit Diversity 4x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.2.1_1	FDD PHICH Transmit Diversity 2x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.5.1.2.2_1	FDD PHICH Transmit Diversity 4x2 (Release 9 and forward)	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.2.1.1_1	FDD PMI Reporting - PUSCH 1-2 (Multiple PMI) (Release 9 and forward)	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.4.3	E-UTRAN TDD-TDD inter-frequency event triggered reporting under AWGN propagation conditions in synchronous cells with DRX when L3 filtering is used	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.4.1	E-UTRAN TDD-TDD inter-frequency event triggered reporting under fading propagation conditions in synchronous cells	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.4.2	E-UTRAN TDD-TDD inter-frequency event triggered reporting when DRX is used under fading propagation conditions in synchronous cells	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.1a	PLMN selection / Automatic mode/ between FDD and TDD	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.3a	Cell reselection of ePLMN in manual mode / between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.4a	PLMN selection in shared network environment / Automatic mode / Between FDD and TDD	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.1	Void	---	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.2a	Cell selection / Qqualmin	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.3a	Cell selection / Intra E-UTRAN / Serving cell becomes non-suitable (Srxlev > 0 and Squal < 0)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.15a	Inter-frequency cell reselection according to cell reselection priority provided by SIBs / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.16	Cell reselection / interband operation / Between FDD and TDD	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.17	Cell reselection for Squal to check against SIntraSearchQ and SnonIntraSearchQ	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.18	Inter-frequency cell reselection based on common priority information with parameters ThreshX, HighQ, ThreshX, LowQ and ThreshServing, LowQ	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.1a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to GSM_Idle/GPRS Packet_Idle (Squal < ThreshServing, LowQ, Srxlev > ThreshX, LowP and Srxlev > ThreshX, HighP)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.7a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to HRPD Idle / HRPD cell is higher reselection priority than E-UTRA (Srxlev > ThreshHRPD, HighP)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.8a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to HRPD Idle / HRPD cell is lower reselection priority than E-UTRA (Squal < ThreshServing, LowQ and Srxlev > ThreshHRPD, LowP)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.9a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to 1xRTT Dormant / 1xRTT cell is higher reselection priority than E-UTRA (Srxlev > Thresh1xRTT, HighP)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.10a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to 1xRTT Dormant / 1xRTT cell is lower reselection priority than E-UTRA (Squal < ThreshServing, LowQ and Srxlev > Thresh1xRTT, LowP)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.1	Inter-frequency cell reselection / From E-UTRA RRC_IDLE non-CSG cell to E-UTRA RRC_IDLE CSG cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.2	Inter-RAT cell reselection / From GSM_Idle/GPRS Packet_Idle to E-UTRA idle CSG cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.3	Inter-RAT cell reselection / From UTRA_Idle to E-UTRA RRC_IDLE CSG cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.4	Inter-RAT cell reselection / From UTRA CELL_PCH state to E-UTRA RRC_IDLE CSG cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.5	Manual support for CSG ID selection	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.7	Inter-RAT Cell reselection from E-UTRA idle non-CSG cell to a UTRA CSG cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.3.8	Inter-RAT CSG Cell Reselection from E-UTRA CSG cell to UTRA CSG cell	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.2	Correct handling of DL assignment / Semi-persistent case	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.2	Correct handling of UL assignment / Semi-persistent case	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.14	Correct HARQ process handling / TTI bundling	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.2.14	RRC connection establishment / High speed flag	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.9a	Measurement configuration control and reporting / Intra Frequency measurements / Intra-frequency handover / IE measurement configuration not present / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.11a	Measurement configuration control and reporting / Intra Frequency measurements / Continuation of the measurements after RRC connection re-establishment / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.6	Radio link failure / T311 expiry / Dedicated RLF timer	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.9	Normal tracking area update / Correct handling of CSG list	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.4	Emergency bearer services / Normal cell / NO-IMSI / Attach / No EPS security context / PDN connect / Service request  / Timer T3412 expires	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.17	Call setup from E-UTRAN RRC_IDLE / mobile originating 1xCS fallback emergency call to 1xRTT.	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.18	Call setup from E-UTRAN RRC_IDLE / mobile originating enhanced 1xCS fallback emergency call to 1xRTT.	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.5	Inter-system mobility / Service based redirection from GSM/GPRS to E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.6	Inter-RAT PS Handover / from GPRS packet transfer to E-UTRA cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.7	Inter-RAT PS Handover / Synchronised / From GPRS Packet_transfer to E-UTRA cell (CCN mode)	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.8	Inter-RAT PS Handover / Synchronised / From GPRS Packet_transfer to E-UTRA cell (NC2 mode)	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	4.2.4	E-UTRAN FDD - TDD cell re-selection inter frequency case	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	4.2.5	E-UTRAN TDD - FDD cell re-selection inter frequency case	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.1.7	E-UTRAN FDD - TDD handover inter frequency case	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.1.8	E-UTRAN TDD - FDD handover inter frequency case	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	5.2.6	E-UTRA TDD - GSM handover	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.6.1	E-UTRAN TDD-UTRAN FDD event triggered reporting under fading propagation conditions	Rel-8	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.9.1	E-UTRAN FDD-UTRAN TDD event triggered reporting in fading propagation conditions	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.5.1	FDD Absolute RSRQ Accuracy for E-UTRA Carrier Aggregation	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.5.2	FDD Relative RSRQ Accuracy E-UTRA for Carrier Aggregation	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.1	FDD Intra Frequency Absolute RSRP Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.1.2	FDD Intra Frequency Relative Accuracy of RSRP	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.1	FDD - FDD Inter Frequency Absolute RSRP Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.3.2	FDD - FDD Inter Frequency Relative Accuracy of RSRP	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.1.1	FDD Intra Frequency Absolute RSRQ Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	Low Temperature / Low Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	UE Maximum Output Power for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2B	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.1	FDD - FDD Inter Frequency Absolute RSRQ Accuracy	Rel-8	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.3.2	FDD - FDD Inter Frequency Relative Accuracy of RSRQ	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.1b	PLMN selection of RPLMN, HPLMN/EHPLMN, UPLMN and OPLMN / Automatic mode  / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.2a	PLMN selection of "Other PLMN/access technology combinations" / Automatic mode / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.3b	Cell reselection of ePLMN in manual mode / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.1.6a	PLMN selection of RPLMN, HPLMN/EHPLMN, UPLMN and OPLMN / Automatic mode / User reselection / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.7a	Cell reselection / Equivalent PLMN / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.8a	Cell reselection using cell status and cell reservations / Access control class 0 to 9 / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.9a	Cell reselection using cell status and cell reservations / Access control class 11 to15 / Single Frequency operation	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.3a	6.2.3.3a Inter-RAT cell reselection / From UTRA_Idle to E-UTRA RRC_IDLE (QqualminEUTRA, SqualServingCell < Threshserving,low2, SqualnonServingCell,x > Threshx, low2 and SqualnonServingCell,x > Threshx, high2)	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.5a	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to UTRA_Idle (Squal > ThreshX, HighQ, Squal < ThreshServing, LowQ, Squal > ThreshX, LowQ and SnonIntraSearchQ)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	6.2.3.33	Inter-RAT cell reselection / From E-UTRA RRC_IDLE to UTRA_Idle / Squal based cell reselection parameters are broadcast in E-UTRAN / UE does not support Squal based cell reselection in UTRAN	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.11a	RRC connection release / Redirection to another E-UTRAN band / Inter-band / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.12a	RRC connection release / Success / With priority information / Inter-band / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.13a	RRC connection reconfiguration / Handover / Success (with measurement) / Inter-band /  Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.14a	RRC connection reconfiguration / Handover / Failure / Re-establishment successful / Inter-band /  Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.15a	RRC connection reconfiguration / Handover / Failure / Re-establishment failure / Inter-band /  Between FDD and TDD	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.3a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A3 (intra and inter-frequency measurements) / RSRQ based measurements	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.12a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A3 (inter-band measurements) / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.13a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Periodic reporting (intra-frequency and inter-band measurements) / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.14a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A2 and A3 (inter-band measurements) / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.15a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Inter-band handover / IE measurement configuration not present / Between FDD and TDD	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.16a	Measurement configuration control and reporting / Intra E-UTRAN measurements / Continuation of the measurements after RRC connection re-establishment / Inter-band / Between FDD and TDD	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.3a	Measurement configuration control and reporting / Inter-RAT measurements / Event B2 / Measurement of UTRAN cells / RSRQ based measurements	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.1	Logged MDT / Intra-frequency measurement, logging and reporting	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.2	Logged MDT / Inter-frequency measurement, logging and reporting	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.3	Logged MDT / Logging and reporting / Limiting area scope	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.4	Logged MDT / Logging and reporting / Indication of logged measurements at E-UTRA handover	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.1	Radio Link Failure logging / Reporting of Intra-frequency measurements	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.2	Radio Link Failure logging / Reporting of Inter-frequency measurements	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.1	Handover Failure logging / Reporting of Intra-frequency measurements	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.2	Handover Failure logging / Reporting of Inter-frequency measurements	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.5	Emergency bearer services / Normal cell / NORMAL-SERVICE / Local Emergency Numbers List NOT sent in the Attach / PDN connect new emergency EPS bearer context / Authentication SQN code failure - MME aborts authentication continues using current security context / Service request	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.10	LIMITED-SERVICE / EPS does not support IMS Emergency / Emergency call using the CS domain	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.4.1	Pre-registration at 1xRTT and Cell reselection / 1x Zone Registration	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.4.2	Pre-registration at 1xRTT and Cell reselection / 1x Ordered Registration	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.4.3	Inter-system session management / eHRPD Multiple PDN setup in eHRPD pre-registration state	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.4.4	Inter-system session management / Pre-registration at HRPD and Cell reselection / HRPD Zone Registration	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.3.1	MBMS Counting / UE not receiving MBMS service	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.3.2	MBMS Counting / UE  receiving MBMS service	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	18.1.1	PWS reception in RRC_IDLE state / Duplicate detection	Rel-9	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	Configured transmitted power for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5B	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	Minimum Output Power for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2B	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.3B	UE Transmit OFF power for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4B	ON/OFF time mask for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	Power Control Absolute power tolerance for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5B.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	Frequency Error for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.1B	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2B.1	Error Vector Magnitude for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2B.2	Carrier leakage for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2B.3	In-band emissions for non allocated RB for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.5.2B.4	EVM equalizer spectrum flatness for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.1B	Occupied bandwidth for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.7B	Transmit intermodulation for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.3B	Reference sensitivity level for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.4B	Maximum input level for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.5B	Adjacent Channel Selectivity (ACS)for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.1B	In-band blocking  for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.2B	Out-of-band blocking for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.6.3B	Narrow band blocking for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.7B	Spurious response for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	7.8.1B	Wide band intermodulation for UL-MIMO	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	4.2.7	E-UTRAN FDD ¡V FDD Inter frequency case in the existence of non-allowed CSG cell	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.3.1	Redirection from E-UTRAN FDD to UTRAN FDD	Rel-9	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	6.3.3	Redirection from E-UTRAN FDD to GERAN when System Information is provided	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	6.3.6	E-UTRA FDD RRC connection release redirection to UTRA TDD	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	7.1.1_1	E-UTRAN FDD - UE Transmit Timing Accuracy (Non DRx UE)	Rel-8 only	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.5.4	E-UTRAN FDD - UTRAN FDD enhanced cell identification under AWGN propagation conditions	Rel-9	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.9.2	E-UTRAN FDD - UTRAN TDD enhanced cell identification under AWGN propagation conditions	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.4.21	CA / UE power headroom reporting / Extended PHR	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.6a	RRC connection release / Redirection from E-UTRAN to UTRAN / Pre-redirection info	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.11	RRC connection release / Redirection to another E-UTRAN band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.1.3.12	RRC connection release / Success / With priority information / Inter-band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.10	RRC connection reconfiguration / Handover / Between FDD and TDD	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.13	RRC connection reconfiguration / Handover / Success (with measurement) / Inter-band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.14	RRC connection reconfiguration / Handover / Failure / Re-establishment successful / Inter-band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.15	RRC connection reconfiguration / Handover / Failure / Re-establishment failure / Inter-band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.12	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A3 (Inter-band measurements)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.13	Measurement configuration control and reporting / Intra E-UTRAN measurements / Periodic reporting (intra-frequency and inter-band measurements)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.14	Measurement configuration control and reporting / Intra E-UTRAN measurements / Two simultaneous events A2 and A3 (Inter-band measurements)	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.15	Measurement configuration control and reporting / Intra E-UTRAN measurements / Inter-band handover / IE measurement configuration not present	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.16	Measurement configuration control and reporting / Intra E-UTRAN measurements / Continuation of the measurements after RRC connection re-establishment / Inter-band	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.7	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA RRC_CONNECTED to 1xRTT / ECAM-based MO call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.8	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA RRC_CONNECTED to 1xRTT / ECAM-based MT call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.9	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA RRC_CONNECTED to 1xRTT / Extended Service Reject / MO call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.1.1	Immediate MDT / Reporting / Location information	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.5	Logged MDT / Logging and reporting / Indication of logged measurements at E-UTRA re-establishment	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.6	Logged MDT / Release of logged MDT measurement configuration / Expire of duration timer	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.7	Logged MDT / Release of logged MDT measurement configuration / Reception of new logged measurement configuration, Detach or UE power off	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.8	Logged MDT / Maintaining logged measurement configuration / UE state transitions and mobility	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.3.1	Logged MDT / UTRAN inter-RAT measurement, logging and reporting	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.3	Radio Link Failure logging / Reporting at RRC connection establishment and reestablishment	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.4	Radio Link Failure logging / Reporting at E-UTRA handover	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.5	Radio Link Failure logging / Reporting of ECGI of the PCell	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.6	Radio Link Failure logging / Reporting of RLF report availability / PLMN change	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.5.1	Radio Link Failure logging / Reporting at UTRAN Inter-RAT handover	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.5.2	Radio Link Failure logging / Reporting at GERAN Inter-RAT handover	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.5.3	Radio Link Failure logging / Reporting CDMA2000 neighbour cell information	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.3	Handover Failure logging / Reporting of HOF report availability / PLMN change	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.7.1	Handover Failure logging / Reporting of UTRAN Inter-RAT measurements	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.7.1	Inter-RAT / ANR measurement, logging and reporting / E-UTRAN cell	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.1b	Attach / Success / Last visited TAI, TAI list and equivalent PLMN list handling / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.13a	Attach / Rejected / PLMN not allowed / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.15a	Attach / Rejected / Roaming not allowed in this tracking area / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.16a	Attach / Rejected / EPS services not allowed in this PLMN / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.15a	Normal tracking area update / Rejected / PLMN not allowed / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.18a	Normal tracking area update / Rejected / EPS services not allowed in this PLMN / Single Frequency operation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.11	LIMITED-SERVICE / Inter-system mobility / E-UTRA to UTRA CS / SRVCC Emergency Call Handover to UTRAN	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.3.1.3	RRC connection reconfiguration / Full configuration / DRB establishment	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.1.3	Intra-system mobility / E-UTRA FDD to E-UTRA TDD to E-UTRA FDD packet	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.1.4	Inter-band mobility / E-UTRA to  E-UTRA packet	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.3	Inter-system mobility / E-UTRA voice to GSM CS voice / SRVCC	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.5	Inter-system mobility / E-UTRA voice to GSM CS voice / Unsuccessful case / Retry on old cell / SRVCC	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.4.5	Pre-Registration at 1xRTT / Power Down Registration	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	UE Maximum Output Power for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2A.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	Maximum Power Reduction (MPR) for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3A.1	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	Maximum Power Reduction (MPR) for UL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	High Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	High Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	Low Temperature / High Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3B	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.4A.1	Additional Maximum Power Reduction (A-MPR) for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.4B	Additional Maximum Power Reduction (A-MPR) for UL-MIMO	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	Configured UE transmitted Output Power for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	Normal Temperature / Normal Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	High Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	High Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	Low Temperature / High Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.1	Low Temperature / Low Voltage	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	Minimum Output Power for CA (intra-band contiguous DL CA and UL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2A.1	Normal Temperature / Normal Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	Configured UE transmitted Output Power for HPUE	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	Normal Temperature / Normal Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	High Temperature / High Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	High Temperature / Low Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	Low Temperature / High Voltage	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5_1	Low Temperature / Low Voltage	Rel-11	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	Configured UE transmitted Output Power for CA (inter-band DL CA without UL CA)	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	Normal Temperature / Normal Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	High Temperature / High Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	High Temperature / Low Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	Low Temperature / High Voltage	Rel-10	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5A.2	Low Temperature / Low Voltage	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.6.2.3_1	Adjacent Channel Leakage power Ratio for HPUE	Rel-11	
+Void    	TS 36.521-1	V.11.2.0 (2013-09)	7.4A.3	Maximum input level for CA (inter-band DL CA without UL CA)	Rel?10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.2_A.1	FDD PDSCH Closed Loop Multi Layer Spatial Multiplexing 4x2 for CA (intra-band contiguous DL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.2.1.4.2_A.2	FDD PDSCH Closed Loop Multi Layer Spatial Multiplexing 4x2 for CA (inter?band DL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.3.1.1.3	FDD PDSCH Single-layer Spatial Multiplexing on antenna ports 7 or 8 with TM9 Interference Model - Enhanced Performance Requirement Type A	Rel-11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	8.7.1.1_A.1	FDD Sustained data rate performance for CA (intra?band contiguous DL CA)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	8.7.1.1_A.2	FDD Sustained data rate performance for CA (inter?band DL CA)	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.2.3.1_D	FDD CQI Reporting under AWGN conditions - PUCCH 1-1 for eDL-MIMO	Rel-10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.4.1.1	FDD CQI Reporting under fading conditions - PUSCH 2-0	Rel?9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.3.4.2.1	FDD CQI Reporting under fading conditions - PUCCH 2-0	Rel?9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.1.2.1	FDD PMI Reporting - PUCCH 2-1 (Single PMI)	Rel?9	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.1.3.1_D	FDD PMI Reporting - PUSCH 3-1 (Single PMI) for eDL-MIMO	Rel?10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.2.2.1	FDD PMI Reporting - PUSCH 2-2 (Multiple PMI)	Rel?9	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.4.2.3.1_D	FDD PMI Reporting - PUSCH 1-2 (Multiple PMI) for eDL-MIMO	Rel?10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.5.1.1_2	FDD RI Reporting- PUCCH 1-1 (Release 11)	Rel?11	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.5.2.1_D	FDD RI Reporting - PUCCH 1-1 for eDL-MIMO	Rel?10	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	9.5.3.1_C.1	FDD RI Reporting ¡V PUCCH 1-0 for eICIC (non-MBSFN ABS)	Rel-10	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	9.6.1.1_A.2	FDD CQI Reporting under AWGN conditions ¡V PUCCH 1-0 for CA (inter band DL CA)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.9	E-UTRAN FDD Radio Link Monitoring Test for Out-of-sync under Time Domain Measurement Resource Restriction with Non MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.11	E-UTRAN FDD Radio Link Monitoring Test for In-sync under Time Domain Measurement Resource Restriction with Non MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.13	E-UTRAN FDD Radio Link Monitoring Test for Out-of-sync under Time Domain Measurement Resource Restriction with MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	7.3.15	E-UTRAN FDD Radio Link Monitoring Test for In-sync under Time Domain Measurement Resource Restriction with MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.1.7	E-UTRAN FDD-FDD Intra-Frequency Event-Triggered Reporting under Time Domain Measurement Resource Restriction with Non-MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.3.6	E-UTRAN FDD-FDD Inter-frequency event triggered reporting without measurement gaps under AWGN propagation conditions in asynchronous cells	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	8.5.6	E-UTRAN FDD - UTRAN FDD event triggered reporting without measurement gaps under AWGN propagation conditions	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	8.16.5	E-UTRAN FDD event triggered reporting under deactivated SCell in non-DRX for 20 MHz bandwidth	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	9.1.8.2	FDD Relative RSRP under Time-Domain Measurement Resource Restriction with Non-MBSFN ABS (eICIC)	Rel-10	
+N/A    	TS 36.521-3	V.11.2.0 (2013-09)	9.2.9.1	FDD Absolute RSRQ under Time Domain Measurement Resource Restriction with MBSFN ABS (eICIC)	Rel-10	
+R    	TS 36.521-3	V.11.2.0 (2013-09)	9.6.1	GSM RSSI accuracy for E-UTRAN FDD	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.19	Intra-frequency cell reselection / MFBI	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.20	Intrer-frequency cell reselection / MFBI	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	6.1.2.21	Inter-band cell reselection / MFBI	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.14	Correct handling of DL assignment / Dynamic case / EPDCCH	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	7.1.3.15	Correct handling of DL assignment / Semi-persistent case / EPDCCH	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.6.1	RRC connection reconfiguration/ UE Assistance Information/power preference indication setup and release	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.6.2	RRC connection reconfiguration/ UE Assistance Information/power preference indication release on connection re-establishment	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.2.6.3	RRC connection reconfiguration/ UE Assistance Information/T340 running	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.16.1	CA / RRC connection reconfiguration / Setup and Change of MIMO / Intra-band Contiguous CA	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.16.2	CA / RRC connection reconfiguration / Setup and Change of MIMO / Inter-band CA	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.2.4.22	RRC connection reconfiguration / Handover / MFBI / target cell broadcasting information disregarded by the UE	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.21	eICIC / Measurement configuration control and reporting / Event A3  Handover / Neighbour RSRP measurement configuration change	Rel-10	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.23	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A4	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.27	Measurement configuration control and reporting / Intra E-UTRAN measurements / Event A5 (Inter-frequency measurements) / RSRQ based measurements	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.1.28	eICIC / Measurement configuration control and reporting / Event A3 / RSRP and RSRQ measurement / Serving ABS	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.4.5	Inter-frequency E-UTRAN FDD - FDD / CSG Proximity Indication	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.1.2	Immediate MDT / Reporting / Location information / Request from eNB / Event A2	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.3a	Logged MDT / Logging and reporting / Limiting area scope / TAC list with PLMN identity	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.10	Logged MDT / Logging and reporting / Reporting at RRC connection establishment / PLMN list	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.11	Logged MDT / Logging and reporting / Reporting at intra LTE handover / PLMN list	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.12	Logged MDT / Logging and reporting / Reporting at RRC connection re-establishment / PLMN list	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.2.13	Logged MDT / Logging and reporting / PLMN list / PLMN change	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.3.4	Logged MDT / Logging and reporting / Reporting at UTRAN Inter-RAT handover / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.8	Radio Link Failure logging / Logging and reporting / Reporting at RRC connection establishment / PLMN list	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.9	Radio Link Failure logging / Logging and reporting / Reporting at intra LTE handover / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.4.10	Radio Link Failure logging / Logging and reporting / Reporting at RRC connection re-establishment / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.5	Handover Failure logging / Logging and reporting / Reporting at RRC connection establishment / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.6	Handover Failure logging / Logging and reporting / Reporting at intra LTE handover / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.6.7	Handover Failure logging / Logging and reporting / Reporting at RRC connection re-establishment / PLMN list	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.7.4	Handover Failure logging / Reporting at UTRAN Inter-RAT handover / PLMN list	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.1	Connection Establishment Failure logging / Logging and reporting / T300 expiry	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.2	Connection Establishment Failure logging / Logging and reporting / Reporting at intra-LTE handover	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.3	Connection Establishment Failure logging / Logging and reporting / Reporting at RRC connection re-establishment	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.4	Connection Establishment Failure logging / Logging and reporting / Location Information	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.5	Connection Establishment Failure logging / Logging and reporting / Reporting of Intra-frequency measurements	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.8.6	Connection Establishment Failure logging / Logging and reporting / Reporting of Inter-frequency measurements	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.9.1	Connection Establishment Failure logging / Logging and reporting / Reporting at UTRAN Inter-RAT handover	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.9.2	Connection Establishment Failure logging / Logging and reporting / Reporting of UTRAN Inter-RAT measurements	Rel-11	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.9.3	Connection Establishment Failure logging / Logging and reporting / Reporting of GERAN Inter-RAT measurements	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.9.4	Connection Establishment Failure logging / Logging and reporting / Reporting of CDMA2000 Inter-RAT measurements	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.10.1	Inter-RAT Immediate MDT / Reporting / Location information / Event B2	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.6.11.1	RACH Optimisation	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.2a	Attach Procedure / AttachWithIMSI configured / Selected PLMN is neither the registered PLMN nor in the list of equivalent PLMNs / Success	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.28	Attach / Success / IMS	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.5a	Periodic tracking area update / Accepted / Per-device timer	Rel-10	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.4.2	EPS bearer context deactivation / Re-establishment	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.8a	Attach for emergency bearer services / Rejected / No suitable cells in tracking area / Emergency call using the CS domain / CDMA2000 1xRTT	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.1	Cell reselection to intra-frequency cell to continue MBMS service reception	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.2	Cell reselection to inter- frequency cell to start MBMS service reception	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.4	Handover to intra-frequency cell to continue MBMS service reception	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.6	MBMS Interest Indication retransmission after returning from cell not broadcasting SIB15	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.7	MBMS Interest Indication after Radio Link Failure	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.4.8	Continue MBMS service reception after E-UTRAN release of unicast bearer	Rel-11	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.7	Measurement configuration control and reporting / Inter-RAT measurements / Event B2 / Measurement of HRPD cells	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.8	Measurement configuration control and reporting / Inter-RAT measurements / Periodic reporting / Measurement of HRPD cells	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.9	Measurement configuration control and reporting / Inter-RAT measurements / Event B2 / Measurement of 1xRTT cells	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.2.10	Measurement configuration control and reporting / Inter-RAT measurements / Periodic reporting / Measurement of 1xRTT cells	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.3.1	Measurement configuration control and reporting / SON / ANR / CGI reporting of E-UTRAN cell	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.3.2	Measurement configuration control and reporting / SON / ANR / CGI reporting of UTRAN cell	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.3.3	Measurement configuration control and reporting / SON / ANR / CGI reporting of GERAN cell	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.3.4	Measurement configuration control and reporting / SON / ANR / CGI reporting of HRPD cell	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.3.5	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.4.1	Intra-frequency SI acquisition / CSG cell and non-CSG cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.4.2	Inter-frequency SI acquisition / Non-member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.4.3	Inter-frequency SI acquisition / Member hybrid cell	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.3.4.4	Inter-RAT SI acquisition / RRC_CONNECTED / UMTS member CSG cell	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.1.2	Inter-RAT handover / From E-UTRA to UTRA PS / Data	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.1.4	Inter-RAT handover / From E-UTRA to UTRA HSPA / Data	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.1.5	Inter-RAT Handover / from E-UTRA to UTRA(HSUPA/HSDPA) / Data	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.2.2	Inter-RAT handover / From UTRA PS to E-UTRA / Data	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.2.4	Inter-RAT handover / From UTRA HSPA to E-UTRA / Data	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.3.1	Inter-RAT handover / From E-UTRA to GPRS / PS HO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.3.2	Inter-RAT cell change order / From E-UTRA data RRC_CONNECTED to GPRS / Without NACC	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.3.3	Inter-RAT cell change order / From E-UTRA data to GPRS / With NACC	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.4.1	Void	null	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.4.2	Void	null	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.4.3	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.5.4	Pre-registration at HRPD and inter-RAT handover / From E-UTRA to HRPD Active / Data	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.1	Inter-RAT handover / SRVCC from E-UTRA to 1xRTT(CS) / Speech	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.3	Pre-registration at 1xRTT and inter-RAT redirection / CS fallback from E-UTRA RRC_IDLE to 1xRTT / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.4	Pre-Registration at 1xRTT and inter-RAT redirection / CS fallback from E-UTRA RRC_CONNECTED to 1xRTT / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.5	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA RRC_IDLE to 1xRTT/MT call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	8.4.7.6	Pre-registration at 1xRTT and inter-RAT Handover / Enhanced CS fallback from E-UTRA RRC_CONNECTED to 1xRTT/MO call	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.1	Radio link failure / RRC connection re-establishment Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.2	Radio link failure / T301 expiry	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.3	Radio link failure / T311 expiry	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.4	Radio link failure / RRC connection re-establishment reject	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.1.5	Radio link failure / Radio link recovery while T310 is running	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.2.1	Redirection to E-UTRAN / From UTRAN upon reception of RRC CONNECTION REJECT	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	8.5.4.1	UE capability transfer / Success	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.1.1	Void	null	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.1.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.1	Authentication accepted	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.3	Authentication not accepted by the network, GUTI used, authentication reject and re-authentication	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.4	Authentication not accepted by the UE / MAC code failure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.5	Authentication not accepted by the UE / SQN failure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.2.6	Abnormal cases / Network failing the authentication check	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.3.1	NAS security mode command accepted by the UE	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.3.2	NAS security mode command not accepted by the UE	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.4.2	Identification procedure / IMEI / IMEISV requested	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.5.1	EMM information procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.1.5.2	EMM information procedure not supported by the UE	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.1	Attach / Success / Valid GUTI	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.1a	Attach / Success / Last visited TAI, TAI list and equivalent PLMN list handling	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.2	Attach / Success / With IMSI, GUTI reallocation	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.3	Attach Procedure / Success / Request for obtaining the IPv6 address of the home agent	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.4	Attach Procedure / Success / Request for obtaining the IPv4 address of the home agent	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.5	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.7	Attach / Success / List of equivalent PLMNs in the ATTACH ACCEPT message	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.9	Attach / Rejected / IMSI invalid	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.10	Attach / Rejected / Illegal ME	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.11	Attach / Rejected / EPS services and non-EPS services not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.12	Attach / Rejected / EPS services not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.13	Attach / Rejected / PLMN not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.14	Attach / Rejected / Tracking area not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.15	Attach / Rejected / Roaming not allowed in this tracking area	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.16	Attach / Rejected / EPS services not allowed in this PLMN	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.17	Attach / Rejected / No suitable cells in tracking area	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.18	Attach / Rejected / Not authorized for this CSG	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.19	Attach / Abnormal case / Failure due to non integrity protection	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.20	Attach / Abnormal case / Access barred because of access class barring or NAS signalling connection establishment rejected by the network	Rei-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.21	Attach / Abnormal case / Success after several attempts due to no network response	Rei-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.22	Attach / Abnormal case / Unsuccessful attach after 5 attempts	Rei-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.23	Attach / Abnormal case / Repeated rejects for network failures	Rei-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.24	Attach / Abnormal case / Change of cell into a new tracking area	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.25	Attach / Abnormal case / Mobile originated detach required	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.1.26	Attach / Abnormal case / Detach procedure collision	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.1	Combined attach / Success / EPS and non-EPS services	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.1b	Combined attach procedure / Success / SMS only	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.1c	Combined attach procedure / Success / EPS and CS Fallback not preferred	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.1d	Combined attach procedure / Success / EPS and CS Fallback not preferred/data centric UE	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.2	Combined attach / Success / EPS services only / IMSI unknown in HSS	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.3	Combined attach / Success / EPS services only / MSC temporarily not reachable	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.4	Combined attach / Success / EPS services only / CS domain not available	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.5	Combined attach / Rejected / IMSI invalid	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.6	Combined attach / Rejected / Illegal ME	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.7	Combined attach / Rejected / EPS services and non-EPS services not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.8	Combined attach / Rejected / EPS services not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.9	Combined attach / Rejected / PLMN not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.10	Combined attach / Rejected / Tracking area not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.11	Combined attach / Rejected / Roaming not allowed in this tracking area	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.12	Combined attach / Rejected / EPS services not allowed in this PLMN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.13	Combined attach / Rejected / No suitable cells in tracking area	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.14	Combined attach / rejected / Not authorized for this CSG	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.1.2.15	Combined attach / Abnormal case / Handling of the EPS attach attempt counter	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.1	UE initiated detach / UE switched off	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.2	UE initiated detach / USIM removed from the UE	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.3	UE initiated detach / EPS capability of the UE is disabled	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.4	UE initiated detach / detach for non-EPS services	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.6	UE initiated detach / Abnormal case / Local detach after 5 attempts due to no network response	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.7	UE initiated detach / Abnormal case / Detach procedure collision	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.8	UE initiated detach / Abnormal case / Detach and EMM common procedure collision	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.9	UE initiated detach / Abnormal case / Change of cell into a new tracking area	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.1.10	UE initiated detach / Mapped security context	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.2.1	NW initiated detach / Re-attach required	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.2.2	NW initiated detach / IMSI detach	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.2.2.14	NW initiated detach / Abnormal case / EMM cause not included	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.1	Normal tracking area update / Accepted	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.4	Normal tracking area update / List of equivalent PLMNs in the TRACKING AREA UPDATE ACCEPT message	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.5	Periodic tracking area update / Accepted	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.6	Normal tracking area update / UE with ISR active moves to E-UTRAN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.8	UE receives an indication that the RRC connection was released with cause "load balancing TAU required"	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.9a	Normal tracking area update / NAS signalling connection recovery	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.10	Normal tracking area update / Rejected / IMSI invalid	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.11	Normal tracking area update / Rejected / Illegal ME	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.12	Normal tracking area update / Rejected / EPS service not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.13	Normal tracking area update / Rejected / UE identity cannot be derived by the network	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.14	Normal tracking area update / Rejected / UE implicitly detached	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.15	Normal tracking area update / Rejected / PLMN not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.16	Normal tracking area update / Rejected / Tracking area not allowed	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.17	Normal tracking area update / Rejected / Roaming not allowed in this tracking area	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.18	Normal tracking area update / Rejected / EPS services not allowed in this PLMN	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.19	Normal tracking area update / Rejected / No suitable cells in tracking area	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.20	Normal tracking area update / Rejected / Not authorized for this CSG	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.22	Normal tracking area update / Abnormal case / access barred due to access class control or NAS signalling connection establishment rejected by the network	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.23	Normal tracking area update / Abnormal case / Success after several attempts due to no network response / TA belongs to TAI list and status is UPDATED	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.25	Normal tracking area update / Abnormal case / Failure after 5 attempts due to no network response	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.26	Normal tracking area update / Abnormal case / TRACKING AREA UPDATE REJECT	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.27	Normal tracking area update / Abnormal case / Change of cell into a new tracking area	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.1.28	Normal tracking area update / Abnormal case / Tracking area updating and detach procedure collision	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.1	Combined tracking area update / Successful	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.1a	Combined tracking area update / Successful / Check of last visited TAI and handling of TAI list, LAI and TMSI	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.1b	Combined tracking area update / successful / SMS only	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.1c	Combined tracking area update / Success / CS Fallback not preferred	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.2	Combined tracking area update / Successful for EPS services only / IMSI unknown in HSS	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.3	Combined tracking area update / Successful for EPS services only / MSC temporarily not reachable	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.4	Combined tracking area update / successful for EPS services only / CS domain not available?	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.5	Combined tracking area update / Rejected / IMSI invalid	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.6	Combined tracking area update / Rejected / Illegal ME	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.7	Combined tracking area update / Rejected / EPS services and non-EPS services not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.8	Combined tracking area update / Rejected / EPS services not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.9	Combined tracking area update / Rejected / UE identity cannot be derived by the network	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.10	Combined tracking area update / Rejected / UE implicitly detached	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.11	Combined tracking area update / Rejected / PLMN not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.12	Combined tracking area update / Rejected / Tracking area not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.13	Combined tracking area update / Rejected / Roaming not allowed in this tracking area	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.14	Combined tracking area update / rejected / EPS services not allowed in this PLMN	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.15	Combined tracking area update / Rejected / No suitable cells in tracking area	Rel-8	
+Void    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.16	Combined tracking area update / rejected / Not authorized for this CSG	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.2.17	Combined tracking area update / Abnormal case / handling of the EPS tracking area updating attempt counter	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.1	First Iu mode to S1 mode inter-system change after attach	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.2	Iu mode to S1 mode intersystem change / ISR is active / Expiry of T3312 in E-UTRAN or T3412 in UTRAN and further intersystem change	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.3	Iu mode to S1 mode intersystem change / Periodic TAU and RAU/ ISR activated, T3423 expired	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.4	First S1 mode to Iu mode inter-system change after attach	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.5	Periodic routing area update	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.5a	Periodic Location Update	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.3.6	E-UTRAN RRC connection failure / Reselection of UTRAN cell / NAS signalling to release old S1 interface connection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.2.3.4.1	TAU/RAU procedure for inter-system cell reselection between A/Gb and S1 modes	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.1	Service request initiated by UE for user data	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.3	Service request / Mobile originating CS fallback	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.4	Service request / Rejected / IMSI invalid	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.5	Service request / Rejected / Illegal ME	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.6	Service request / Rejected / EPS services not allowed	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.7	Service request / Rejected / UE identity cannot be derived by the network	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.7a	Service request / Rejected / UE implicitly detached	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.12a	Extended service request / Rejected / CS domain temporarily not available	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.15	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.16	Service request / Abnormal case / Switch off	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.17	Service request / Abnormal case / Procedure collision	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.1.18	Service request / Rejected / Not authorized for this CSG	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.2.1	Paging procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.2.2	Paging for CS fallback / Idle mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.3.2.2a	Paging for CS fallback / Connected mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.1	Integrity protection / Correct functionality of EPS NAS integrity algorithm / SNOW3G	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.2	Integrity protection / Correct functionality of EPS NAS integrity algorithm / AES	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.3	Ciphering and deciphering / Correct functionality of EPS NAS encryption algorithm / SNOW3G	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	9.4.4	Ciphering and deciphering / Correct functionality of EPS NAS encryption algorithm / AES	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.2.1	Dedicated EPS bearer context activation / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.3.1	EPS bearer context modification / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.4.1	EPS bearer context deactivation / Success	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.5.1	UE requested PDN connectivity procedure accepted by the network	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	10.5.2	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.5.3	UE requested PDN connectivity procedure not accepted	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.6.1	UE requested PDN disconnect procedure accepted by the network	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	10.6.2	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.7.1	UE requested bearer resource allocation, accepted by the network / New EPS bearer context	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.7.2	UE requested bearer resource allocation accepted by the network / Existing EPS bearer context	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.7.3	UE requested bearer resource allocation not accepted by the network	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.7.4	UE requested bearer resource allocation / Expiry of timer T3480	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.7.5	UE requested bearer resource allocation / BEARER RESOURCE ALLOCATION REJECT message including cause #43 "unknown EPS bearer context"	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.1	UE requested bearer resource modification accepted by the network / New EPS bearer context	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.2	UE requested bearer resource modification accepted by the network / Existing EPS bearer context	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.3	UE requested bearer resource modification not accepted by the network	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.4	UE requested bearer resource modification / Cause #36 ¡§regular deactivation¡¨	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.5	UE requested bearer resource modification / BEARER RESOURCE MODIFICATION REJECT message including cause #43 ¡§unknown EPS bearer context¡¨	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.6	UE requested bearer resource modification / Collision of a UE requested bearer resource modification procedure and EPS bearer context deactivation procedure	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	10.8.7	UE requested bearer resource modification / Expiry of timer T3481	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	10.9.1	UE routing of uplink packets	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.1	MT-SMS over SGs / Idle mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.2	MT-SMS over SGs / Active mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.3	MO-SMS over SGs / Idle mode	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	11.1.4	MO-SMS over SGs / Active mode	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	11.2	Emergency calls over IMS	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.1	Emergency bearer services / Normal cell / NORMAL-SERVICE / Local Emergency Numbers List sent in the Attach / PDN connect new emergency EPS bearer context / Service request / Emergency PDN disconnect	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.2	Emergency bearer services / Normal cell / LIMITED-SERVICE / Attach / PDN connect	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.3	Emergency bearer services / CSG cell / LIMITED-SERVICE / Attach / Security mode control procedure without prior authentication / PDN connect / Service request / PDN disconnect / Detach upon UE switched off / Temporary storage of EMM information	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.6	Handling of Local Emergency Numbers List provided during Attach and Normal tracking area update procedures	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.7	UE has PDN connection for emergency bearer services / Normal tracking area update / Accepted / Local Emergency Numbers List is not sent by the network / Handling of the lists of forbidden tracking areas	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	11.2.8	Attach for emergency bearer services / Rejected / No suitable cells in tracking area / Emergency call using the CS domain / UTRA or GERAN	Rel-9	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.2.1	Data transfer of E-UTRA radio bearer combinations 1, 3, 6 and 9	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.2.2	Data transfer of E-UTRA radio bearer combinations 2, 4, 7 and 10	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.2.3	Data transfer of E-UTRA radio bearer combinations 5, 6, 8, 11 and 12	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.2.4	Data transfer of E-UTRA radio bearer combination 13	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.3.1	Data transfer of E-UTRA radio bearer combinations 1, 3, 6 and 9 / MIMO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.3.2	Data transfer of E-UTRA radio bearer combinations 2, 4, 7 and 10 / MIMO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.3.3	Data transfer of E-UTRA radio bearer combinations 5, 6, 8, 11 and 12 / MIMO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	12.3.4	Data transfer of E-UTRA radio bearer combination 13 / MIMO	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.1	Activation and deactivation of additional packet radio bearer in E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.2	Call setup from E-UTRAN RRC_IDLE / CS fallback to UTRAN with redirection / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.2a	Call setup from E-UTRAN RRC_IDLE / CS fallback to UTRAN with redirection including System Information / MO call	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.3	Call setup from E-UTRAN RRC_CONNECTED / CS fallback to UTRAN with redirection / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.4	Call setup from E-UTRAN RRC_IDLE / CS fallback to UTRAN with Handover / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.5	Call setup from E-UTRAN RRC_CONNECTED / CS fallback to UTRAN with Handover / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.7	Call setup from E-UTRA RRC_IDLE / CS fallback to GSM with redirection / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.8	Call setup from E-UTRA RRC_CONNECTED / CS fallback to GSM with redirection / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.9	Call setup from E-UTRA RRC_IDLE / CS fallback to GSM with CCO without NACC / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.10	Call setup from E-UTRA RRC_CONNECTED / CS fallback to GSM with CCO without NACC / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.11	Call setup from E-UTRA RRC_IDLE / CS fallback to GSM with PSHO / EDTM not supported / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.12	Call setup from E-UTRA RRC_CONNECTED / CS fallback to GSM with PSHO / EDTM not supported / MO call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.13	Call setup from E-UTRA RRC_IDLE / CS fallback to GSM with PSHO / EDTM supported / MT call	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.15	Call setup from E-UTRAN RRC_IDLE / CS fallback to UTRAN with redirection / MT call / UTRAN cell is barred	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.1.16	Emergency call setup from E-UTRAN RRC_IDLE / CS fallback to UTRAN with handover	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.2.1	RRC connection reconfiguration / E-UTRA to E-UTRA	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.3.1.1	Intra-system connection re-establishment / Radio link recovery while T310 is running	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.3.1.2	Intra-system connection re-establishment / Re-establishment of a new connection when further data is to be transferred	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.3.2.1	Inter-system connection re-establishment / E-UTRAN to UTRAN / Further data are to be transferred	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.3.2.2	Inter-system connection re-establishment / E-UTRAN to GPRS / Further data are to be transferred	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.1.2	Inter-frequency mobility / E-UTRA to E-UTRA packet	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.1	Inter-system mobility / E-UTRA to UTRA packet	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.2	Inter-system mobility / E-UTRAN to GPRS packet	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.2.4	Inter-system mobility / Service based redirection from UTRA to E-UTRA	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.1	Inter-system mobility / E-UTRA voice to UTRA CS voice / SRVCC	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.2	Inter-system mobility / E-UTRA PS voice + PS data to UTRA CS voice + PS data / SRVCC	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	13.4.3.4	Inter-system mobility / E-UTRA voice to UTRA CS voice / Unsuccessful case / Retry on old cell / SRVCC	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	14.1	ETWS reception in RRC_IDLE state / Duplicate detection	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	14.2	ETWS reception in RRC_CONNECTED state / Duplicate detection	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	14.3	Void	null	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	15.1	Discovery of the Home Agent via DNS	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	15.2	Discovery of the Home Agent via DHCPv6	Rel-8	
+null    	TS 36.523-1	V.11.4.0 (2013-09)	15.3	Void	null	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.4	Security association establishment with Home Agent reallocation procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.5	Security association establishment without Home Agent reallocation procedure	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.6	Registration of a new IPv6 CoA (Binding Update/Acknowledgment procedure in IPv6 network)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.7	Registration of a new IPv4 CoA (Binding Update/Acknowledgment procedure in IPv4 network)	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.8	Re-registration of IPv6 CoA	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.9	Re-registration of IPv4 CoA	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.10	Return to home link	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.11	Dual-Stack Mobile IPv6 detach in IPv6 network	Rel-8	
+R    	TS 36.523-1	V.11.4.0 (2013-09)	15.12	Dual-Stack Mobile IPv6 detach in IPv4 network	Rel-8	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.1.1	MCCH information acquisition/ UE is switched on	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.1.2	MCCH information acquisition/UE cell reselection to a cell in a new MBSFN area	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.1.3	MCCH information acquisition/UE handover to a cell in a new MBSFN area	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.1.4	MCCH information acquisition/ UE is receiving an MBMS service	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.1.5	MCCH information acquisition/ UE is not receiving MBMS data	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.2.1	UE Acquire the MBMS data based on the SIB13 and MCCH message /MCCH and MTCH are on the same MCH	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.2.2	UE Acquire the MBMS data based on the SIB13 and MCCH message /MCCH and MTCH are on different MCHs	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.2.3	UE receives the MBMS data when this data is in the beginning of the MSP	Rel-9	
+N/A    	TS 36.523-1	V.11.4.0 (2013-09)	17.2.4	Reception of?PDCCH DCI format 0 and PHICH in MBSFN subframes	Rel-9	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	UE Maximum Output Power	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.2	Low Temperature / Low Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	Maximum Power Reduction (MPR)	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	Normal Temperature / Normal Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	High Temperature / High Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	High Temperature / Low Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	Low Temperature / High Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.3	Low Temperature / Low Voltage	Rel-8	
+N/A    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.4	Additional Maximum Power Reduction (A-MPR)	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	Configured UE transmitted Output Power	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.2.5	Low Temperature / Low Voltage	Rel-8	
+null    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.1	Void	null	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	Minimum Output Power	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.3	Transmit OFF Power	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	General ON/OFF time mask	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	PRACH time mask	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	SRS time mask	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.4.2.2	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	Power Control Absolute Power Tolerance	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	High Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	Low Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.1	Low Temperature / Low Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	Power Control Relative Power Tolerance	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	Normal Temperature / Normal Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	High Temperature / High Voltage	Rel-8	
+R    	TS 36.521-1	V.11.2.0 (2013-09)	6.3.5.2	High Temperature / Low Voltage	Rel-8	

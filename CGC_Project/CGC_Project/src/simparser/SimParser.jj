@@ -1,0 +1,50 @@
+/**
+ * JavaCC template file created by SF JavaCC plugin 1.5.17+ wizard for JavaCC 1.5.0+
+ */options{  JDK_VERSION = "1.5";  static = false;}PARSER_BEGIN(EG1)package simparser;
+import java.io.StringReader;
+import cgcdb.*;
+public class EG1{
+  	private Project project;
+  	private String table_spec;
+    private boolean result;
+    
+    public EG1(String condition, Project project, String table_spec){
+        this(new StringReader(condition));
+        this.project = project;
+        this.table_spec = table_spec;
+        try{
+        	this.result = one_line();
+        }catch(ParseException e){
+            e.printStackTrace();        }catch(Error e){
+            e.printStackTrace();        }    }
+
+    public boolean getResult(){
+        return result;    }}PARSER_END(EG1)SKIP :{  " "| "\r"| "\t"| "\n"}TOKEN : /* OPERATORS */{  < AND : "AND" >
+| < RESULT : < A >| < NA > | < R > | < M > | < O > | < NULL >>| < #A : "A" >
+| < #NA : "N/A" >
+| < #R : "R" >
+| < #M : "M" >
+| < #O : "O" >
+| < #NULL : "NULL">}TOKEN :{
+/*  < ID : < P2 > | < P3 >>| < #P2 : "C"(< DIGIT >)+(< LETTER >)* | "UC"(< DIGIT >)+ | "C_RF"(< DIGIT >)+>
+| < #P3 : "EC"(< DIGIT >)+>
+| < NUMBER : (< DIGIT >)+ >
+| < #SOME : "["(< DIGIT >)+"]" >
+| < #DIGIT : [ "0"-"9" ] >
+| < #LETTER : [ "A"-"Z" , "a"-"z" ]>
+| < #SPEC_CHAR : [ ",", ".", "/", "[" , "]", "_", "-"]>**/
+  < ID : (~[ ])+>}boolean one_line() :{
+	boolean a, b;
+}{  a = result() (< AND > b = result(){ a = a&b; })* < EOF >{    return a;  }
+| < EOF >{
+  	return false;  }}boolean result() :{
+	Token id;
+	Token result;
+}{    id = < ID >{
+        if(project.getCondition(id.toString(), table_spec) == null){
+        	return false;
+      	}else
+      		return project.getCondition(id.toString(), table_spec).getResult().getValue();
+	}
+|   result = < RESULT >{
+  		return Result.BySymbol(result.toString()).getValue();	}}

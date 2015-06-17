@@ -1,0 +1,80 @@
+EC124
+IF A.1STK/22, test x.A M ELSE x.B M (where x is the expected sequence number value)
+Lexical error at line 1, column 13.  Encountered: "," (44), after : ""
+
+EO.1
+IF A.1STK/zz tests x.yA M ELSE tests x.yB M (where zz corresponds to the option relating to the command being tested (e.g. A.1STK/50 if Display Text supports icons as defined in record 1 of EF(IMG)) and x.y is the expected sequence number value)
+Lexical error at line 1, column 15.  Encountered: "e" (101), after : "t"
+
+EO.2
+IF A.1STK/zz tests x.yA M ELSE tests x.yB M (where zz corresponds to the option relating to the command being tested (e.g. A.1STK/51 if Display Text supports icons as defined in record 2 of EF(IMG)) and x.y is the expected sequence number value)
+Lexical error at line 1, column 15.  Encountered: "e" (101), after : "t"
+
+EC129
+IF A.1STK/33 THEN test x.A M ELSE test x.B M
+Lexical error at line 1, column 20.  Encountered: "e" (101), after : "t"
+
+EC130
+IF EC121 AND A.1STK/34 THEN test x.A M ELSE IF EC121 AND (NOT A.1STK/34) test x.B M ELSE N/A
+Lexical error at line 1, column 30.  Encountered: "e" (101), after : "t"
+
+EO.4
+IF A.1STK/zz AND A.1/ww tests x.yA M ELSE tests x.yB M (where zz and ww correspond to the options relating to the command being tested (e.g. A.1STK/50 if Display Text supports icons as defined in record 1 of EF(IMG) and A.1STK/52 if Display Text supports icons as defined in record 5 of EF(IMG) ) and x.y is the expected sequence number value)
+Lexical error at line 1, column 26.  Encountered: "e" (101), after : "t"
+
+TCEP001
+IF NOT A.1STK/45 THEN during the test execution, the display or the non-display of any alpha identifier, text string or icon shall be treated as successfully verified.
+Lexical error at line 1, column 24.  Encountered: "u" (117), after : "d"
+
+TCEP002
+IF NOT A.1STK/46 THEN the terminal may open the channel without explicit confirmation by the user.
+Lexical error at line 1, column 24.  Encountered: "h" (104), after : "t"
+
+C_RF72
+F A.1/1 AND A.7/14 AND (A.8/13 OR A.8/14 OR A.8/17 OR A.8/18 OR A.8/19 OR A.8/20) THEN R ELSE N/A
+Lexical error at line 1, column 2.  Encountered: " " (32), after : "F"
+
+AER003
+IF (test 8.2.3 has been PASSED) THEN R ELSE A
+Lexical error at line 1, column 6.  Encountered: "e" (101), after : "t"
+
+AER004
+IF (test 8.2.5 has been PASSED) THEN R ELSE A
+Lexical error at line 1, column 6.  Encountered: "e" (101), after : "t"
+
+UC124
+IF A.1/22, test x.A M ELSE x.B M (where x is the expected sequence number value)
+Lexical error at line 1, column 10.  Encountered: "," (44), after : ""
+
+UC166
+IF A.1/63 THEN test step option n.A M ELSE test step option n.B M
+Lexical error at line 1, column 17.  Encountered: "e" (101), after : "t"
+
+UC169
+IF UC121 AND A.1/68 THEN test x.A M ELSE IF UC121 AND (NOT A.1/68) test x.B M ELSE N/A
+Lexical error at line 1, column 27.  Encountered: "e" (101), after : "t"
+
+O.1
+IF C002 THEN "Expected Sequence A" M ELSE IF C001 THEN "Expected Sequence B" M
+Lexical error at line 1, column 14.  Encountered: "\"" (34), after : ""
+
+O.1
+IF A.1/zz tests x.yA M ELSE tests x.yB M (where zz corresponds to the option relating to the command being tested (e.g. A.1/90 if Display Text supports icons as defined in record 1 of EF(IMG)) and x.y is the expected sequence number value)
+Lexical error at line 1, column 12.  Encountered: "e" (101), after : "t"
+
+O.2
+IF A.1/zz tests x.yA M ELSE tests x.yB M (where zz corresponds to the option relating to the command being tested (e.g. A.1/91 if Display Text supports icons as defined in record 2 of EF(IMG)) and x.y is the expected sequence number value)
+Lexical error at line 1, column 12.  Encountered: "e" (101), after : "t"
+
+O.4
+IF A.1/zz AND A.1/ww tests x.yA M ELSE tests x.yB M (where zz and ww corresponds to the option relating to the command being tested (e.g. A.1/90 if Display Text supports icons as defined in record 1 of EF(IMG) and A.1.92 if Display Text supports icons as defined in record 5 of EF(IMG) ) and x.y is the expected sequence number value)
+Lexical error at line 1, column 23.  Encountered: "e" (101), after : "t"
+
+TCEP001
+During the test execution, the display or the non-display of any alpha identifier, text string or icon shall be treated as successfully verified.
+Lexical error at line 1, column 2.  Encountered: "u" (117), after : "D"
+
+TCEP002
+The terminal may open the channel without explicit confirmation by the user.
+Lexical error at line 1, column 2.  Encountered: "h" (104), after : "T"
+

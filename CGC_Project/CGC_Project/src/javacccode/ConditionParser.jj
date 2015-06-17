@@ -1,0 +1,202 @@
+/**
+ * JavaCC template file created by SF JavaCC plugin 1.5.17+ wizard for JavaCC 1.5.0+
+ */
+options
+{
+  LOOKAHEAD = 1;
+  JDK_VERSION = "1.5";
+  static = false;
+}
+
+PARSER_BEGIN(EG1)
+package javacccode;
+import java.util.*;
+import java.io.*;
+import cgcdb.*;
+import java.util.Stack;
+import java.util.ArrayList;
+
+
+public class EG1{
+	CGCDB db;
+	Project project;
+	Protocol protocol;
+	Condition condition;
+	Stack count;
+	ArrayList<ConditionError> ERROR_LIST;
+
+	public EG1(CGCDB db, Project project, Condition condition, ArrayList<ConditionError> ERROR_LIST) throws ParseException{
+		this(new StringReader(condition.getCondition_desc()));
+
+		this.db = db;
+		this.project = project;
+	  	this.condition = condition;
+		this.ERROR_LIST = ERROR_LIST;
+	  	
+	  	this.protocol = condition.getProtocol();	}
+}//class
+
+PARSER_END(EG1)
+
+SKIP :
+{
+  " "
+| "\r"
+| "\t"
+| "\n"
+}
+
+TOKEN :
+{
+  < IF : "IF" >
+| < THEN : "THEN" >
+| < ELSE : "ELSE" >
+| < AND : "AND" >
+| < OR : "OR" | "or" >
+| < NOT : "NOT" >
+}
+
+TOKEN :// Result Symbol
+{
+  < RESULT : < A >|< NA >|< R >|< M >|< O >|< O1 >|< O2 >|< O4 >|< REF >>
+| < #REF : "R("<ANYKEY>")">
+| < #A : "A" >
+| < #NA : "N/A" >
+| < #R : "R" >
+| < #M : "M" >
+| < #O : "O" >
+| < #O1 : "O.1">
+| < #O2 : "O.2">
+| < #O4 : "O.4">
+
+
+| < VOID: "Void">
+| < #ANYKEY: ~[]>}
+
+TOKEN :
+{
+  //< PIC : ((< DIGIT >|< LETTER >| < SPEC_CHAR >)+)>
+
+  < P1 : < LETTER >"."(< DIGIT >)+("-"| "." | < DIGIT > | < LETTER >)* "/" ("-" | "." | < DIGIT > | < LETTER >)*>
+| < P2 : "C"(< DIGIT >)+(< LETTER >)* | "UC"(< DIGIT >)+ | "C_RF"(< DIGIT >)+>
+| < P3 : "EC"(< DIGIT >)+>
+| < NUMBER : (< DIGIT >)+ >
+| < #SOME : "["(< DIGIT >)+"]" >
+| < #DIGIT : [ "0"-"9" ] >
+| < #LETTER : [ "A"-"Z" , "a"-"z" ]>
+| < #SPEC_CHAR : [ ",", ".", "/", "[" , "]", "_", "-"]>
+}
+
+Result condition() :{
+	Result result;
+}{
+	result = statement() (<EOF>|"."){
+    	return result;
+  	}
+}
+
+Result statement() :{
+  Result b;
+}{
+  	b = select_statement(){ return b;}
+| "(" b = select_statement() ")"{ return b;}
+| b = result(){ return b;}
+| "Void"{ return Result.VOID;}
+}
+
+Result select_statement() :{
+	boolean a;
+	Result b, c;
+}{
+	< IF >
+	a = expression()
+	< THEN >
+	b = statement()	
+	< ELSE>
+	c = statement(){
+	  	if(a)
+	  		return b;
+	  	else
+	  		return c;	}
+}
+
+boolean expression() :{
+	boolean a, b;
+	ArrayList list = new ArrayList();
+}{
+	a=factor() (< AND > b=factor(){
+	  			list.add("AND");
+	  			list.add(b);
+	  		} | < OR > b=factor(){
+	  			list.add("OR");
+	  			list.add(b);	  		})*{  
+		while(!list.isEmpty()){
+	  	  	Object obj = list.remove(0);
+	  	  	if(obj.equals("AND")){
+	  	  	  	a = a & ((boolean)list.remove(0));
+	  	  	}else if(obj.equals("OR")){
+	  	  	  	a = a | ((boolean)list.remove(0));
+	  		}
+	 	}	  
+	  	return a;	}
+}
+
+
+boolean factor() :{
+	boolean b;
+}{
+  	"("b = expression()")"	{
+  	    return b;
+    }
+| 	b = pic() {
+  		return b;}
+| 	< NOT > b = factor(){ return !b;}
+}
+
+Result result():{
+    Token t;
+}{
+	t = < RESULT > {
+		return Result.BySymbol(t.toString());
+	}
+}
+
+boolean pic():{
+  	Condition con;	Token pic;
+	Token ver;
+	Pic p;
+}{
+  	pic = < P1 >{ // normal PICS
+
+		p = project.getPic(pic.toString(), condition.getTable_Spec());
+		
+		if(p == null){
+		  	ERROR_LIST.add(new ConditionError(project.getProject_Code(), condition.getTable_Spec(), condition.getCondition_ID(), pic.toString() + " is null."));
+		  	//nullPic.put(pic.toString(), pic.toString());
+			return false;
+		}else{
+  			return p.getSupport();
+  		}  	}
+|   "[" ver = < NUMBER > "]" pic = < P1 >{ // Reference other table PICS
+  		int version = Integer.parseInt(ver.toString());
+		p = project.getPic(pic.toString(), db.getRefSpec("["+version+"]"));
+		
+		if(p == null){
+	  		ERROR_LIST.add(new ConditionError(project.getProject_Code(), condition.getTable_Spec(), condition.getCondition_ID(), pic.toString() + " is null."));
+		  	//nullPic.put(pic.toString(), pic.toString());
+			return false;
+		}else
+  			return p.getSupport();
+	}
+| 	pic = < P2 >{
+  		con = project.getCondition(pic.toString(), condition.getTable_Spec());
+		if(!con.isDone()){			ConditionSolver.solveCondition(db, project, con, ERROR_LIST);
+		}
+		return con.getResult().getValue();
+	}
+|   pic = < P3 >{
+  		con = project.getCondition(pic.toString(), "2G");
+		if(con == null){
+			ConditionSolver.solveCondition(db, project, con, ERROR_LIST);
+		}
+		return con.getResult().getValue();	}}
